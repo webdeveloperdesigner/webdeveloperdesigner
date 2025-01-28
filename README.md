@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=webdeveloperdesigner.vivek" />
+
 <h1 align="center">Hi there, I'm Vivek 👋</h1>
 <h3 align="center">B.Tech 3rd Year | GLA University, Mathura</h3>
 
@@ -10,6 +12,13 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophy</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=webdeveloperdesigner&theme=gruvbox" alt="GitHub Trophy" />
+</div>
+
+---
+
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-vns/" target="_blank">
@@ -18,4 +27,17 @@
   <a href="mailto:vivekcsed22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/webdeveloperdesigner/vivek" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,solidity,github,bootstrap,firebase" />
+</div>
+
+---
+
