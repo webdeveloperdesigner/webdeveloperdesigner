@@ -15,7 +15,13 @@
 <h2 align="center">🏆 GitHub Trophy</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=webdeveloperdesigner&theme=gruvbox" alt="GitHub Trophy" />
-</div>
+</div><br>
+
+<div align=center>
+<img src = "https://nirzak-streak-stats.vercel.app?user=webdeveloperdesigner&theme=dark&border_radius=10&card_width=390"/>
+<!--   <img width=390 src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats"/> -->
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 
 ---
 
