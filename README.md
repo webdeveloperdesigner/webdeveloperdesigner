@@ -20,7 +20,8 @@
 <div align=center>
 <img src = "https://nirzak-streak-stats.vercel.app?user=webdeveloperdesigner&theme=dark&border_radius=10&card_width=390"/>
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=webdeveloperdesigner&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=webdeveloperdesigner&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<!--   &count_private=true -->
   <br/>
 
 ---
