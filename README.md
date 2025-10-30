@@ -1,5 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=webdeveloperdesigner.vivek" />
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,17,18,19,20&height=300&section=header&text=vivek&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20MERN%20DEV.%20•%20Digital%20Access&descAlignY=65&descSize=18" width="100%" />
+</div>
+
+
 <h1 align="center">Hi there, I'm Vivek 👋</h1>
 <h3 align="center">B.Tech 3rd Year | GLA University, Mathura</h3>
 
