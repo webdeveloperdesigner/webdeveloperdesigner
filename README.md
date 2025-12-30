@@ -39,7 +39,7 @@
   <a href="mailto:vivekcsed22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://bit.ly/4mhdFkx" target="_blank">
+  <a href="https://vivek01.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white" />
   </a>
 </p>
